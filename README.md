@@ -21,6 +21,7 @@
     - Schedule for the university (https://heiets.github.io/timelist)
     - Poster SVG maker(https://heiets.github.io/Poster-SVG-maker)
     - Star wars API (https://heiets.github.io/swapi)
+    - OMD Api movies search (https://heiets.github.io/OMDApiPractice)
   * React + Redux
     - Taki taki game (https://heiets.github.io/takitaki2)
   * Angular 2
