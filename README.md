@@ -1,10 +1,10 @@
 # Portfolio
 
 ##Landings
-  * Bootstarp
+  * Bootstrap
+    - Mountains (http://heiets.github.io/mountains)
     - DL Market (https://heiets.github.io/wildweb_1)
-    - TastyCake(http://heiets.github.io/tastycake)
-    - Mountains(http://heiets.github.io/mountains)
+    - TastyCake (http://heiets.github.io/tastycake)
   * Flexbox
     - Take (https://heiets.github.io/flexbox-take)
     - Hotel Amarica (http://heiets.github.io/flexbox-hotel)
