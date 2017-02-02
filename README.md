@@ -18,6 +18,9 @@
     - Hotel Amarica
      - Page: https://github.com/heiets/flexbox-hotel
      - Demo: http://heiets.github.io/flexbox-hotel
+    - Fooseshoes
+     - Page: https://github.com/heiets/flexbox-fooseshoes
+     - Demo: http://heiets.github.io/flexbox-fooseshoes
     
 ##Javascript
   * Native
