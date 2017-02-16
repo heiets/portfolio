@@ -21,6 +21,9 @@
     - Fooseshoes
      - Page: https://github.com/heiets/flexbox-fooseshoes
      - Demo: http://heiets.github.io/flexbox-fooseshoes
+    - Netfix
+     - Page: https://github.com/heiets/flexbox-netfix
+     - Demo: http://heiets.github.io/flexbox-netfix
     
 ##Javascript
   * Native
