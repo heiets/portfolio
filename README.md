@@ -58,6 +58,9 @@
     - Taki taki game
      - Page: https://github.com/heiets/takitaki2
      - Demo: http://heiets.github.io/takitaki2
+    - Rrating
+     - Page: https://github.com/heiets/rrating
+     - Demo: http://heiets.github.io/rrating
   * Angular 2
     - Bills calculator
      - Page: https://github.com/heiets/moneybill
