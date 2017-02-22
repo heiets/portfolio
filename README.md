@@ -55,12 +55,12 @@
      - Page: https://github.com/heiets/OMDApiPractice
      - Demo: http://heiets.github.io/OMDApiPractice
   * React + Redux
-    - Taki taki game
-     - Page: https://github.com/heiets/takitaki2
-     - Demo: http://heiets.github.io/takitaki2
     - Rrating
      - Page: https://github.com/heiets/rrating
      - Demo: http://heiets.github.io/rrating
+    - Taki taki game
+     - Page: https://github.com/heiets/takitaki2
+     - Demo: http://heiets.github.io/takitaki2
   * Angular 2
     - Bills calculator
      - Page: https://github.com/heiets/moneybill
