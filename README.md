@@ -26,18 +26,6 @@
      - Demo: http://heiets.github.io/flexbox-netfix
     
 ##Javascript
-  * Native
-    - Class creation
-     - Page: https://github.com/heiets/carClassPractice
-  * JQuery
-    - Schedule for the university
-     - Page: https://github.com/heiets/timing
-     - Demo: http://heiets.github.io/timing
-    - Jquery taki taki game
-     - Page: https://github.com/heiets/takitaki
-     - Demo: http://heiets.github.io/takitaki
-    - Material control center
-     - Page: https://github.com/heiets/material-control-center
   * React
     - Schedule of exams for the university
      - Page: https://github.com/heiets/react-exams
@@ -61,7 +49,23 @@
     - Taki taki game
      - Page: https://github.com/heiets/takitaki2
      - Demo: http://heiets.github.io/takitaki2
+  * Angular 1.X
+    - Rrating
+     - Page: https://github.com/heiets/rrating-ang
+     - Demo: http://heiets.github.io/rrating-ang
   * Angular 2
     - Bills calculator
      - Page: https://github.com/heiets/moneybill
      - Demo: http://heiets.github.io/moneybill
+  * Native
+    - Class creation
+     - Page: https://github.com/heiets/carClassPractice
+  * JQuery
+    - Schedule for the university
+     - Page: https://github.com/heiets/timing
+     - Demo: http://heiets.github.io/timing
+    - Jquery taki taki game
+     - Page: https://github.com/heiets/takitaki
+     - Demo: http://heiets.github.io/takitaki
+    - Material control center
+     - Page: https://github.com/heiets/material-control-center
