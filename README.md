@@ -46,6 +46,9 @@
     - Rrating
      - Page: https://github.com/heiets/rrating
      - Demo: http://heiets.github.io/rrating
+    - Weather SPA
+     - Page: https://github.com/heiets/weather__na
+     - Demo: http://heiets.github.io/weather__na
     - Taki taki game
      - Page: https://github.com/heiets/takitaki2
      - Demo: http://heiets.github.io/takitaki2
