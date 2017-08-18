@@ -1,5 +1,5 @@
-## Landings
-  # Bootstrap
+# Landings
+  ## Bootstrap
   *
     - Mountains  
       - Page: https://github.com/heiets/mountains
@@ -10,7 +10,7 @@
     - TastyCake
       - Page: https://github.com/heiets/tastycake
       - Demo: http://heiets.github.io/tastycake
-  # Flexbox
+  ## Flexbox
   *
     - Take
       - Page: https://github.com/heiets/flexbox-take
@@ -25,8 +25,8 @@
       - Page: https://github.com/heiets/flexbox-netfix
       - Demo: http://heiets.github.io/flexbox-netfix
     
-## Javascript
-  # React
+# Javascript
+  ## React
   *
     - Search engine players
       - Page: https://github.com/heiets/players
@@ -45,7 +45,7 @@
     - OMD Api movies search
       - Page: https://github.com/heiets/OMDApiPractice
       - Demo: http://heiets.github.io/OMDApiPractice
-  # React + Redux
+  ## React + Redux
   *
     - Rrating
       - Page: https://github.com/heiets/rrating
@@ -56,25 +56,25 @@
     - Taki taki game
       - Page: https://github.com/heiets/takitaki2
       - Demo: http://heiets.github.io/takitaki2
-  # Angular 1.X
+  ## Angular 1.X
   *
     - Rrating
       - Page: https://github.com/heiets/rrating-ang
       - Demo: http://heiets.github.io/rrating-ang
-  # Angular 2
+  ## Angular 2
   *
     - Bills calculator
       - Page: https://github.com/heiets/moneybill
       - Demo: http://heiets.github.io/moneybill
-  # Native
+  ## Native
   *
     - Class creation
       - Page: https://github.com/heiets/carClassPractice
-  # NodeJS
+  ## NodeJS
   *
     - ExpressJS json file database
       - Page: https://github.com/heiets/JsonFileDB
-  # JQuery
+  ## JQuery
   *
     - Schedule for the university
       - Page: https://github.com/heiets/timing
