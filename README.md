@@ -28,6 +28,8 @@
 ## Javascript
   # React
   *
+    - Search engine players
+      - Page: https://github.com/heiets/players
     - Schedule of exams for the university
       - Page: https://github.com/heiets/react-exams
       - Demo: http://heiets.github.io/react-exams
