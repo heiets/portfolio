@@ -1,30 +1,3 @@
-# Landings
-  ## Bootstrap
-  *
-    - Mountains  
-      - Page: https://github.com/heiets/mountains
-      - Demo: http://heiets.github.io/mountains
-    - DL Market
-      - Page: https://github.com/heiets/wildweb_1
-      - Demo: https://heiets.github.io/wildweb_1
-    - TastyCake
-      - Page: https://github.com/heiets/tastycake
-      - Demo: http://heiets.github.io/tastycake
-  ## Flexbox
-  *
-    - Take
-      - Page: https://github.com/heiets/flexbox-take
-      - Demo: http://heiets.github.io/flexbox-take
-    - Hotel Amarica
-      - Page: https://github.com/heiets/flexbox-hotel
-      - Demo: http://heiets.github.io/flexbox-hotel
-    - Fooseshoes
-      - Page: https://github.com/heiets/flexbox-fooseshoes
-      - Demo: http://heiets.github.io/flexbox-fooseshoes
-    - Netfix
-      - Page: https://github.com/heiets/flexbox-netfix
-      - Demo: http://heiets.github.io/flexbox-netfix
-    
 # Javascript
   ## React
   *
@@ -66,10 +39,6 @@
     - Bills calculator
       - Page: https://github.com/heiets/moneybill
       - Demo: http://heiets.github.io/moneybill
-  ## Native
-  *
-    - Class creation
-      - Page: https://github.com/heiets/carClassPractice
   ## NodeJS
   *
     - ExpressJS json file database
@@ -84,3 +53,30 @@
       - Demo: http://heiets.github.io/takitaki
     - Material control center
       - Page: https://github.com/heiets/material-control-center
+# Landings
+  ## Bootstrap
+  *
+    - Mountains  
+      - Page: https://github.com/heiets/mountains
+      - Demo: http://heiets.github.io/mountains
+    - DL Market
+      - Page: https://github.com/heiets/wildweb_1
+      - Demo: https://heiets.github.io/wildweb_1
+    - TastyCake
+      - Page: https://github.com/heiets/tastycake
+      - Demo: http://heiets.github.io/tastycake
+  ## Flexbox
+  *
+    - Take
+      - Page: https://github.com/heiets/flexbox-take
+      - Demo: http://heiets.github.io/flexbox-take
+    - Hotel Amarica
+      - Page: https://github.com/heiets/flexbox-hotel
+      - Demo: http://heiets.github.io/flexbox-hotel
+    - Fooseshoes
+      - Page: https://github.com/heiets/flexbox-fooseshoes
+      - Demo: http://heiets.github.io/flexbox-fooseshoes
+    - Netfix
+      - Page: https://github.com/heiets/flexbox-netfix
+      - Demo: http://heiets.github.io/flexbox-netfix
+  
