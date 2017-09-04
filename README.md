@@ -1,8 +1,19 @@
 # Javascript
-  ## React
+  ## React + Redux
   *
     - Search engine players
       - Page: https://github.com/heiets/players
+    - Rrating
+      - Page: https://github.com/heiets/rrating
+      - Demo: http://heiets.github.io/rrating
+    - Weather SPA
+      - Page: https://github.com/heiets/weather__na
+      - Demo: http://heiets.github.io/weather__na
+    - Taki taki game
+      - Page: https://github.com/heiets/takitaki2
+      - Demo: http://heiets.github.io/takitaki2
+  ## React
+  *
     - Schedule of exams for the university
       - Page: https://github.com/heiets/react-exams
       - Demo: http://heiets.github.io/react-exams
@@ -18,17 +29,6 @@
     - OMD Api movies search
       - Page: https://github.com/heiets/OMDApiPractice
       - Demo: http://heiets.github.io/OMDApiPractice
-  ## React + Redux
-  *
-    - Rrating
-      - Page: https://github.com/heiets/rrating
-      - Demo: http://heiets.github.io/rrating
-    - Weather SPA
-      - Page: https://github.com/heiets/weather__na
-      - Demo: http://heiets.github.io/weather__na
-    - Taki taki game
-      - Page: https://github.com/heiets/takitaki2
-      - Demo: http://heiets.github.io/takitaki2
   ## Angular 1.X
   *
     - Rrating
