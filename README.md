@@ -3,6 +3,8 @@
   *
     - Search engine players
       - Page: https://github.com/heiets/players
+    - React custom tables creator
+      - Page: https://github.com/heiets/react-tabs
     - Rrating
       - Page: https://github.com/heiets/rrating
       - Demo: http://heiets.github.io/rrating
