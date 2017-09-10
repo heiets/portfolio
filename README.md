@@ -1,8 +1,10 @@
 # Javascript
   ## React + Redux
   *
-    - Invoice CRUD Admin panel
+    - Invoice REST CRUD Admin panel
       - Page: https://github.com/heiets/invoices-test
+    - Spendee app localStorage CRUD Admin panel
+      - Page: https://github.com/heiets/spendee-test
     - Search engine players
       - Page: https://github.com/heiets/players
     - React custom tables creator
